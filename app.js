@@ -1,10 +1,8 @@
 document.addEventListener('DOMContentLoaded',()=>{
     document.querySelectorAll("#link a").forEach(e=>{
-        e.addEventListener("click", scrollNav)   
+        e.addEventListener("click", scrollNav);   
     })
-    
-
-    window.addEventListener('scroll', menuFijo)
+    window.addEventListener('scroll', menuFijo);
 })
 
 function scrollNav(e) {
@@ -14,7 +12,7 @@ function scrollNav(e) {
 
     document.querySelector(value).scrollIntoView({
         behavior: "smooth"
-    })
+    });
 }
 
 function menuFijo(){
