@@ -1,0 +1,33 @@
+[
+    {
+        "nombre": "Blog de Cafe",
+        "img": "./img/img_1.png",
+        "link": "https://blog-de-cafe-pag-web.netlify.app/",
+        "github": "https://github.com/fran220/BlogDeCafe"
+    },
+    {
+        "nombre": "Registros",
+        "img": "./img/img_2.png",
+        "link": "https://registro-indexed-db.netlify.app/",
+        "github": "https://github.com/fran220/Registros"
+    },
+    {
+        "nombre": "Simulador de Correos",
+        "img": "./img/img_3.png",
+        "link": "https://simulador-de-email-001.netlify.app/",
+        "github": "https://github.com/fran220/SimuladorDeCorreos"
+    },
+    {
+        "nombre": "Billetera de Gastos",
+        "img": "./img/img_4.png",
+        "link": "https://web-gasto-semanal.netlify.app/",
+        "github": "https://github.com/fran220/BilleteraDeGastos"
+    },
+    {
+        "nombre": "Buscador de Clima",
+        "img": "./img/img_5.png",
+        "link": "https://app-para-saber-clima.netlify.app/",
+        "github": "https://github.com/fran220/clima"
+    }
+
+]
