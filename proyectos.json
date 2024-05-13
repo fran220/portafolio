@@ -28,6 +28,18 @@
         "img": "./img/img_5.png",
         "link": "https://app-para-saber-clima.netlify.app/",
         "github": "https://github.com/fran220/clima"
+    },
+    {
+        "nombre": "Buscador de Recetas",
+        "img": "./img/img_6.png",
+        "link": "https://buscador-de-recetas-ls.netlify.app/",
+        "github": "https://github.com/fran220/buscador-de-recetas"
+    },
+    {
+        "nombre": "Criptomonedas y divisas",
+        "img": "./img/img_7.png",
+        "link": "https://app-criptomonedas-conver.netlify.app/",
+        "github": "https://github.com/fran220/criptomonedas"
     }
 
 ]
